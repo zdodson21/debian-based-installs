@@ -7,4 +7,8 @@ blender
 asunder
 audacity
 obs-studio
+bashtop
+dosbox
+vlc
+wine
 -y; 
